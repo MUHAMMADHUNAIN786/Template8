@@ -1,0 +1,167 @@
+#id1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+#id1{
+     font-size: 20px;
+     color: black;
+     background-color:silver;
+     margin-right: 20px;
+    
+}
+#id2{
+    height: 330px;
+    margin-left: -20px;
+
+    margin-top: -20px;
+    
+}
+#id3{
+    height: 330px;
+    margin-right: -20px;
+    margin-left: -20px;
+    width: 700px;
+}
+
+#id4{
+    width: 570px;
+    margin-top: -4px;
+    margin-left:-20px ;
+    
+}
+#id5{
+    margin-left: 550px;
+    height: 680px;
+    margin-top: -385px;
+    width: 700px;
+    
+}
+#id6{
+    height: 330px;
+    margin-top: -410px;
+    width: 570px;
+    margin-left: -10px;
+}
+#id7{
+    text-align: center;
+}
+#id8{
+    height: 350px;
+    width: 300px;
+    margin-left: 490px;
+}
+#id9{
+    width: 800px;
+    text-align: center;
+    margin-left: 210px;
+}
+body{
+    background-color: #f1f1f1;
+}
+#id10{
+    text-align: center;
+    color: #E91E63;
+}
+#id11{
+    text-align: center;
+}
+#id12{
+    margin-left: 260px;
+    width: 700px;
+    height: 35px;
+    border: none;
+    background-color: white;
+}
+#id13{
+    text-align: center;
+}
+#id14{
+    margin-left: 260px;
+    width: 700px;
+    height: 35px;
+    border: none;
+    background-color: white;
+}
+#id15{
+    text-align: center;
+}
+#id16{
+    margin-left: 260px;
+    width: 700px;
+    height: 35px;
+    border: none;
+    background-color: white;
+}
+#id17{
+    margin-left: 260px;
+    width: 710px;
+    height: 35px;
+    background-color: #616161;
+    color: #f1f1f1;
+}
+#id18{
+    text-align: center;
+}
+#id19{
+    text-align: center;margin-top: 20px;
+}
+#id20{
+    margin-top: 2em;
+}
+#id25{
+    border-radius: 2em;
+    border-bottom: #616161;
+}
+.navbar{
+    font-size:26px;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    text-decoration: none;
+    vertical-align: middle;
+    text-decoration: none;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    background-color: inherit;
+    white-space: inherit;
+    user-select: none;
+    color: black;
+    
+  
+
+}
+.navbar1{
+    font-size: 26px;
+    margin-left: -1px;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    text-decoration: none;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    background-color: inherit;
+    white-space: inherit;
+    user-select: none;
+    color: black;
+      box-sizing: inherit;
+
+      }
+
+body{
+ background-color: #f1f1f1;
+}
+*{
+    background-color: #f1f1f1;
+}
+.navbar:hover {
+    background-color: silver;
+
+}
+.navbar1:hover {
+    background-color: silver;
+}
+
